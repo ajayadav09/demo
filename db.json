@@ -9,11 +9,10 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-   "url":"abc.com/staging/1234",
-   "thumbnailColorCode":"string",
-   "thumbnailUrl":"thumbnail-url",
-   "createdBy":"BLUEHOST / MAESTRO",
-   "creationDate":" TIMESTAMP",
-   "operationInProgress":"possible values listed below."
+    "url" : "abc.com/staging/1234", 
+    "thumbnailUrl" : "https://via.placeholder.com/150",
+    "createdBy" : "BLUEHOST",
+    "creationDate" : "2020-02-12T08:21:02.000+00:00",
+    "operationInProgress" : "CLONE_TO_STAGING"
   }
 }
