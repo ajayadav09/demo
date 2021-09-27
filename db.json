@@ -9,6 +9,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+   "url":"abc.com/staging/1234",
+   "thumbnailColorCode":"string",
+   "thumbnailUrl":"thumbnail-url",
+   "createdBy":"BLUEHOST / MAESTRO",
+   "creationDate":" TIMESTAMP",
+   "operationInProgress":"possible values listed below."
   }
 }
