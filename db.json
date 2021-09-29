@@ -12,7 +12,7 @@
     "url" : "abc.com/staging/1234", 
     "thumbnailUrl" : "https://via.placeholder.com/150",
     "createdBy" : "BLUEHOST",
-    "creationDate" : "2020-02-12T08:21:02.000+00:00",
+    "created" : "2020-02-12T08:21:02.000+00:00",
     "operationInProgress" : "CLONE_TO_STAGING"
   }
 }
